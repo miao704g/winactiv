@@ -1,3 +1,9 @@
+# Winactiv has been ARCHIVED
+## What does this mean?
+- This means that I'm stopping Winactiv development in favor of a new, cleaner, better ***program***, yes, Winactiv is coming back uner a new name and as an open source ***PROGRAM***!
+
+
+
 # What is it for?
 Winactiv is a simple batch script that can (as of time of writing) activate some Volume Windows 10/8.1/8 editions
 # Who is it for?
